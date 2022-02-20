@@ -19,6 +19,6 @@ Approach 1:
 
 Approach 3：
 
-![image](https://github.com/nemosteven/handwriting-figures-python/tree/main/images/fig1.png)
+![image](images/fig1.png)
 
-![image](https://github.com/nemosteven/handwriting-figures-python/tree/main/images/fig2.jpg)
+![image](images/fig1.png)
