@@ -11,12 +11,14 @@ Some examples are provided below.
 
 Approach 1:
 
-![image](https://github.com/nemosteven/handwriting-figures-python/tree/main/images/fig1.png)
-
-![image](https://github.com/nemosteven/handwriting-figures-python/tree/main/images/fig2.jpg)
-
 ![image](https://github.com/nemosteven/handwriting-figures-python/blob/main/images/Figure_1.png)
 
 ![image](https://github.com/nemosteven/handwriting-figures-python/blob/main/images/Figure_2.png)
 
 ![image](https://github.com/nemosteven/handwriting-figures-python/blob/main/images/Figure_3.png)
+
+Approach 3：
+
+![image](https://github.com/nemosteven/handwriting-figures-python/tree/main/images/fig1.png)
+
+![image](https://github.com/nemosteven/handwriting-figures-python/tree/main/images/fig2.jpg)
